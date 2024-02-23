@@ -13,10 +13,12 @@
 
 </head>
 <body>
+   <div class="container text-center text-success ">
     <h1>Hello World!</h1>
+   </div>
 
 
-    <div class="container">
+    <div class="container ">
         <form action="landing.php" method="POST">
             <div class="mb-3">
                 <label for="" class="form-label">TEXT GOES HERE</label>
@@ -44,7 +46,7 @@
                 type="submit"
                 class="btn btn-primary"
             >
-                Button
+                Check
             </button>
             
         </form>
